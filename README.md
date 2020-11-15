@@ -34,5 +34,5 @@ Change Plaform info
 * Ethernet is working
 
 ## 🙏🏻 Thanks
-* [How to build Ryzentosh](https://www.youtube.com/watch?v=j1ItPlQYAj8)
+* [(Video) How to build Ryzentosh](https://www.youtube.com/watch?v=j1ItPlQYAj8)
 * And some other Forums and Reddit Posts
