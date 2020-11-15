@@ -3,12 +3,19 @@
 Hackintosh with following specs:
 
 Motherboard: MSI Tomahawk Max B450
+
 CPU: Ryzen 5 3600
+
 RAM: 16GB (2x8GB) DDR4 Corsair @ 3200MHz
+
 Audio-Chipset: Realtek® ALC892 Codec
+
 GPU: RX580 8GB
+
 Wifi-Bluetooth: PCIe Card Adapter with Wifi and Bluetooth (Broadcom BCM94360CS2) (works nativly with macOS)
+
 macOS Version: 11.0.1 (Big Sur)
+
 OpenCore: 0.6.3
 
 ### ⚙️ Installation
